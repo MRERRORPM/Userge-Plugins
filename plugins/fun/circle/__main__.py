@@ -8,7 +8,7 @@ from shutil import rmtree
 
 import ujson
 
-from userge import Message, userge
+from userge import Message
 from userge.utils import runcmd, safe_filename, thumb_from_audio
 
 LOG = userge.getLogger(__name__)
