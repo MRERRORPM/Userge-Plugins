@@ -29,7 +29,7 @@ async def kill_func(message):
         "------------------->",
         "------>;(^。^)ノ",
         "(￣ー￣) DED",
-        "<b>Target killed successfully (´°̥̥̥̥̥̥̥̥ω°̥̥̥̥̥̥̥̥｀)</b>",
+        "<b>Target killed successfully By Headshot(´°̥̥̥̥̥̥̥̥ω°̥̥̥̥̥̥̥̥｀)</b>",
     ]
     for i in range(10):
         await asyncio.sleep(0.6)
